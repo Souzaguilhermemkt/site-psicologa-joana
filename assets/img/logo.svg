@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+      <rect width="800" height="240" fill="none"/>
+      <!-- Símbolo -->
+      <g transform="translate(40, 30)">
+        <circle cx="90" cy="90" r="75" fill="none" stroke="#E6D5B8" stroke-width="4"/>
+        <path d="M 50 140 C 40 70, 70 30, 90 20 C 110 50, 80 110, 100 160" fill="none" stroke="#1A365D" stroke-width="7" stroke-linecap="round"/>
+        <path d="M 75 50 C 125 60, 140 100, 120 140 C 105 110, 115 80, 85 70" fill="none" stroke="#7CA1B4" stroke-width="6" stroke-linecap="round"/>
+        <circle cx="110" cy="95" r="9" fill="#C49A9A"/>
+      </g>
+      <!-- Texto -->
+      <text x="240" y="95" font-family="Georgia, serif" font-style="italic" font-size="52" fill="#1A365D">Psicóloga</text>
+      <text x="440" y="100" font-family="'Alex Brush', cursive, Georgia, serif" font-size="64" fill="#1A365D">Rebeka Sales</text>
+      <text x="242" y="145" font-family="sans-serif" font-size="20" font-weight="600" letter-spacing="4" fill="#7CA1B4">PSICOTERAPIA E AUTOCONHECIMENTO</text>
+      <text x="242" y="180" font-family="sans-serif" font-size="14" fill="#C49A9A" letter-spacing="1">Atendimento Online • Brasil e Exterior</text>
+    </svg>
