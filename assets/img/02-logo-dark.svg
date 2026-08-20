@@ -36,10 +36,11 @@
   <!-- Typography Block -->
   <g transform="translate(250, 105)">
     <text class="brand-title-dark">
-      PsicÃ³loga <tspan class="brand-name-dark">Rebeka Sales</tspan>
+      Psicóloga <tspan class="brand-name-dark">Rebeka Sales</tspan>
     </text>
     <text y="48" class="brand-sub-dark">
       Psicoterapia e Autoconhecimento
     </text>
   </g>
 </svg>
+

@@ -1,0 +1,1 @@
+﻿const fs = require('fs'); let buf = fs.readFileSync('dist/index.html'); let text = buf.toString('utf8'); let fixed = Buffer.from(text, 'latin1').toString('utf8'); fs.writeFileSync('dist/index.html', fixed, 'utf8');
