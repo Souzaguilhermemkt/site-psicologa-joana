@@ -1,0 +1,44 @@
+================================================================================
+PACOTE DE 13 IMAGENS OFICIAIS - PSICÓLOGA REBEKA SALES
+Psicoterapia e Autoconhecimento | CRP 06/123456
+================================================================================
+
+Este pacote contém os 13 ativos visuais gerados com rigor milimétrico de acordo
+com o Manual de Marca Oficial da Psicóloga Rebeka Sales.
+
+--------------------------------------------------------------------------------
+1. ÍNDICE DOS 13 ARQUIVOS NA PASTA
+--------------------------------------------------------------------------------
+01-logo.svg             -> Logotipo oficial para fundo claro (800 x 240 px)
+02-logo-dark.svg        -> Logotipo para fundo escuro #1A365D (800 x 240 px)
+03-simbolo.svg          -> Símbolo circular orgânico policromático (400 x 400 px)
+04-simbolo-white.svg    -> Símbolo monocromático com fundo navy (400 x 400 px)
+05-favicon-16x16.svg    -> Favicon para navegadores clássicos (16 x 16 px)
+06-favicon-32x32.svg    -> Favicon Retina HD (32 x 32 px)
+07-apple-touch-icon.svg -> Ícone para tela inicial iOS/Android (180 x 180 px)
+08-hero-bg.webp         -> Fotografia de consultório com luz natural (1920 x 800 px)
+09-sobre.webp           -> Retrato profissional Rebeka Sales (800 x 1000 px)
+10-servico-1.webp       -> Foto Psicoterapia Individual Online (600 x 400 px)
+11-servico-2.webp       -> Foto Mentoria & Expatriação (600 x 400 px)
+12-servico-3.webp       -> Foto Terapia em Grupo / Mulheres (600 x 400 px)
+13-cta-final.webp       -> Imagem aconchegante para CTA Final (1920 x 600 px)
+
+--------------------------------------------------------------------------------
+2. PALETA DE CORES OFICIAL
+--------------------------------------------------------------------------------
+• Azul-marinho profundo : HEX #1A365D | RGB(26, 54, 93)   | CMYK: 90/75/35/30
+• Azul-sereno          : HEX #7CA1B4 | RGB(124, 161, 180)| CMYK: 45/20/15/0
+• Rosa-poeira          : HEX #C49A9A | RGB(196, 154, 154)| CMYK: 20/40/30/0
+• Areia-quente         : HEX #E6D5B8 | RGB(230, 213, 184)| CMYK: 10/15/30/0
+• Branco-creme         : HEX #FDFCF8 | RGB(253, 252, 248)| CMYK: 0/0/2/0
+
+--------------------------------------------------------------------------------
+3. TIPOGRAFIA RECOMENDADA
+--------------------------------------------------------------------------------
+• Títulos Principais  : Playfair Display / Cormorant Garamond
+• Nome em Destaque    : Cormorant Garamond Italic
+• Subtítulos e Menus  : Plus Jakarta Sans (Tracking expandido: 0.18em)
+• Textos de Parágrafo : Plus Jakarta Sans (Regular / Medium 16px)
+
+================================================================================
+© 2026 Rebeka Sales - Todos os direitos reservados.

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+  <defs>
+    <style>
+      .brand-title { font-family: 'Playfair Display', 'Cormorant Garamond', serif; font-size: 54px; font-weight: 500; fill: #1A365D; }
+      .brand-name { font-family: 'Cormorant Garamond', 'Alex Brush', serif; font-style: italic; font-weight: 600; fill: #1A365D; }
+      .brand-sub { font-family: 'Plus Jakarta Sans', system-ui, sans-serif; font-size: 20px; font-weight: 400; letter-spacing: 0.18em; fill: #7CA1B4; text-transform: uppercase; }
+    </style>
+  </defs>
+  
+  <!-- Symbol scaled to fit left side -->
+  <g transform="translate(10, 15) scale(0.52)">
+    
+  <g transform="translate(0, 0)">
+    <!-- Outer delicate organic circle -->
+    <ellipse cx="200" cy="200" rx="150" ry="155" fill="none" stroke="#E6D5B8" stroke-width="6" stroke-linecap="round" opacity="0.95" />
+    <path d="M 120,290 C 80,240 70,160 130,100 C 190,40 270,60 310,120 C 340,165 340,240 290,290 C 250,330 170,335 120,290 Z" fill="none" stroke="#E6D5B8" stroke-width="4" stroke-dasharray="320 8" opacity="0.65" />
+    
+    <!-- Left Serene Blue Leaf/Petal -->
+    <path d="M 145,215 C 130,175 140,130 175,105 C 190,135 195,175 175,210 C 165,225 150,225 145,215 Z" fill="#7CA1B4" opacity="0.92" />
+    <path d="M 145,215 C 160,180 185,150 175,105" fill="none" stroke="#688F9E" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+
+    <!-- Right Dusty Rose Petal -->
+    <path d="M 205,210 C 220,165 245,130 280,140 C 275,175 255,215 220,230 C 210,225 205,215 205,210 Z" fill="#C49A9A" opacity="0.92" />
+    <path d="M 280,140 C 250,170 230,195 220,230" fill="none" stroke="#B08383" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+
+    <!-- Lower Warm Sand subtle leaf -->
+    <path d="M 185,245 C 175,275 205,305 230,295 C 240,270 225,245 195,240 Z" fill="#E6D5B8" opacity="0.85" />
+
+    <!-- Central Deep Navy Flowing Stem / S-Curve -->
+    <path d="M 182,75 C 190,110 188,145 178,180 C 168,215 172,250 184,285 C 187,298 185,315 180,330" fill="none" stroke="#1A365D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Navy delicate hook accent -->
+    <circle cx="180" cy="74" r="5" fill="#1A365D" />
+  </g>
+
+  </g>
+
+  <!-- Typography Block -->
+  <g transform="translate(250, 105)">
+    <text class="brand-title">
+      Psicóloga <tspan class="brand-name">Rebeka Sales</tspan>
+    </text>
+    <text y="48" class="brand-sub">
+      Psicoterapia e Autoconhecimento
+    </text>
+  </g>
+</svg>
