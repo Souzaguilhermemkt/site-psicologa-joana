@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
   <defs>
     <style>
       .brand-title-dark { font-family: 'Playfair Display', 'Cormorant Garamond', serif; font-size: 54px; font-weight: 500; fill: #FDFCF8; }
@@ -8,7 +8,7 @@
   </defs>
   
   <!-- Navy Background for preview -->
-  <rect width="800" height="240" rx="12" fill="#1A365D" />
+  
 
   <!-- Symbol scaled to fit left side with light lines -->
   <g transform="translate(10, 15) scale(0.52)">
@@ -36,7 +36,7 @@
   <!-- Typography Block -->
   <g transform="translate(250, 105)">
     <text class="brand-title-dark">
-      Psicóloga <tspan class="brand-name-dark">Rebeka Sales</tspan>
+      PsicÃ³loga <tspan class="brand-name-dark">Rebeka Sales</tspan>
     </text>
     <text y="48" class="brand-sub-dark">
       Psicoterapia e Autoconhecimento
